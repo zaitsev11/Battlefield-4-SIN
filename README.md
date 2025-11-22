@@ -1,9 +1,5 @@
 # BF4 Stats Intelligence Network
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nora77zz/Battlefield-4-SIN/main/web/public/bf4-icon.svg" width="200" alt="BF4 Stats">
-</p>
-
 **🌐 Live Demo:** [https://battlefield4-sin.onrender.com/](https://battlefield4-sin.onrender.com/)
 
 A Battlefield 4 statistics tracker that fetches and visualizes player data directly from the GameTools API. It allows users to look up soldier stats across all platforms (PC, PS4, Xbox One).
